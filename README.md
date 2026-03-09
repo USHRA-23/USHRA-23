@@ -49,13 +49,14 @@ Technologies I work with:
 
 ---
 
-# 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=USHRA-23&show_icons=true&theme=tokyonight)
+## 📊 GitHub Stats
+
+![Ushra's GitHub stats](https://github-readme-stats.vercel.app/api?username=USHRA-23&show_icons=true&theme=tokyonight&rank_icon=github)
 
 ---
 
-# 🔥 GitHub Streak
+## 🔥 GitHub Streak
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=USHRA-23&theme=tokyonight)
 
@@ -75,7 +76,7 @@ Technologies I work with:
 
 # 🟢 GeeksforGeeks Stats
 
-![GFG Stats](https://geeks-for-geeks-stats-api.vercel.app/?userName=Ushra Dixit)
+![GFG Stats](https://geeks-for-geeks-stats-api.vercel.app/?userName=UshraDixit)
 
 ---
 
