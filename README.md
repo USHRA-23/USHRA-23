@@ -67,10 +67,9 @@ Technologies I work with:
 ![Codeforces Stats](https://codeforces-readme-stats.vercel.app/api/card?username=ushradixit)
 
 ---
+## 🟢 GeeksforGeeks Profile
 
-# 🟢 GeeksforGeeks Stats
-
-![GFG Stats](https://geeks-for-geeks-stats-api.vercel.app/?userName=ushradiv9rh)
+[![GFG Profile](https://img.shields.io/badge/GeeksforGeeks-Ushra%20Dixit-brightgreen)](https://www.geeksforgeeks.org/user/ushradiv9h/)
 
 ---
 
