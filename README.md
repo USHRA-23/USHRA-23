@@ -48,7 +48,7 @@ Technologies I work with:
 `Arduino` `IoT` `AWS CloudFormation` `SQL`
 
 ---
-
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=USHRA-23&show_icons=true&theme=tokyonight)
 
 ## 🔥 GitHub Streak
 
